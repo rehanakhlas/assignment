@@ -32,4 +32,4 @@ if count == 2:
     print(" the  number is Prime")
 else:
     print(" the number is not not prime")
-    print ("hurrah! you have succeeded your task \n good job sir .")
+    print ("hurrah! you have succeeded your task \n good job sir.")
